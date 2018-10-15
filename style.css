@@ -1,0 +1,22 @@
+body {
+  background-color: #31d8f9;
+  
+}
+
+div {
+  text-align: center;
+  display: inline-block;
+  font-family: 'Kodchasan', sans-serif;
+  color: whitesmoke;
+  margin: 200px 50px 100px 50px;
+}
+
+#button {
+  background-color: whitesmoke;
+  color: #31d8f9;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: bold;
+}
